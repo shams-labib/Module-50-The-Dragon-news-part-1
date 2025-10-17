@@ -3,3 +3,6 @@
 2. so "DATE-FNS", eta havvy ekta jinish, ami jdi text er maddome kothao realtime date and year dekhaite cai eta amar project e add korte hobe, and then <p>{format:new date(), "eeee, mmmm, l, yyyy"}</p> evabe real time date add kora jabe jekono website e
 
 3. so 50-3 video e amra shiklam kiavbe marquue use kore text ek pash theke arekpash e show korano jay, ami eta dekhte caile LatestNews.jsx e dekhte parbo, (npm fast marquee) package er name babe!
+
+4. so ekhane aro ekta important jinish seta hosce useNavigate jeta muloto react router theke ashe, eta use kore ami ekta page theke arekta page e ba path e user ke pathiye dite pari that's all
+ 
